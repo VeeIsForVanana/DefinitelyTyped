@@ -9,6 +9,7 @@
 /// <reference path="google-apps-script.data-studio.d.ts"/>
 /// <reference path="google-apps-script.document.d.ts"/>
 /// <reference path="google-apps-script.drive.d.ts"/>
+/// <reference path="google-apps-script.events.d.ts"/>
 /// <reference path="google-apps-script.forms.d.ts"/>
 /// <reference path="google-apps-script.gmail.d.ts"/>
 /// <reference path="google-apps-script.groups.d.ts"/>
